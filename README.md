@@ -1,4 +1,4 @@
-# pinsocial
-PinSocial - social network by Django.
+# PinSocial by Django.
 
+PinSocial - социальная сеть на Django Rest Framework.
 version 1.0
